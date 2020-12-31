@@ -1,0 +1,60 @@
+{
+    "list": [{
+            "id": 1,
+            "user_name": "fenghaisheng",
+            "phone_number": "13701581453",
+            "email": "fhs@redmatrix.org.cn",
+            "department":"南京红阵研发一部",
+            "client_mac":"1-1-1-1-1-1",
+            "client_ip":"1.1.1.1",
+            "client_info":"andriod XIAOMI MAX2",
+            "ap_name":"6413-01",
+            "ap_ip":"192.168.110.1",
+            "login_time": "2020-07-20 16:30",
+            "logout_time": "2020-07-20 18:30"
+        },
+        {
+            "id": 2,
+            "user_name": "fenghaisheng",
+            "phone_number": "13701581453",
+            "email": "fhs@redmatrix.org.cn",
+            "department":"南京红阵研发一部",
+            "client_mac":"2-2-2-2-2-2",
+            "client_ip":"1.1.1.2",
+            "client_info":"andriod XIAOMI MAX2",
+            "ap_name":"6413-02",
+            "ap_ip":"192.168.120.1",
+            "login_time": "2020-07-20 13:34",
+            "logout_time": "2020-07-20 16:29"
+        },
+        {
+            "id": 3,
+            "user_name": "fenghaisheng",
+            "phone_number": "13701581453",
+            "email": "fhs@redmatrix.org.cn",
+            "department":"南京红阵研发一部",
+            "client_mac":"3-3-3-3-3-3",
+            "client_ip":"1.1.1.3",
+            "client_info":"andriod XIAOMI MAX2",
+            "ap_name":"6413-01",
+            "ap_ip":"192.168.110.1",
+            "login_time": "2020-07-20 08:34",
+            "logout_time": "2020-07-20 12:01"
+        },
+        {
+            "id": 4,
+            "user_name": "fenghaisheng",
+            "phone_number": "13701581453",
+            "email": "fhs@redmatrix.org.cn",
+            "department":"南京红阵研发一部",
+            "client_mac":"1-1-1-1-1-1",
+            "client_ip":"1.1.1.4",
+            "client_info":"andriod XIAOMI MAX2",
+            "ap_name":"6413-01",
+            "ap_ip":"192.168.110.1",
+            "login_time": "2020-07-19 13:34",
+            "logout_time": "2020-07-19 19:01"
+        }
+    ],
+    "pageTotal": 4
+}

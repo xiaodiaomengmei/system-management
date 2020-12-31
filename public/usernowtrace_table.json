@@ -1,0 +1,64 @@
+{
+    "list": [{
+            "id": 1,
+            "human_name": "冯海生",
+            "user_name": "fhs",
+            "phone_number": "13701581453",
+            "email": "fhs@redmatrix.org.cn",
+            "department":"南京红阵研发一部",
+            "client_mac":"1-1-1-1-1-1",
+            "client_ip":"192.168.110.13",
+            "client_info":"andriod XIAOMI MAX2",
+            "state": "在线",
+            "ap_name":"6413-02",
+            "ap_ip":"192.168.120.1",
+            "last_login_time": "2020-07-20 08:34"
+        },
+        {
+            "id": 2,
+            "human_name": "赵秋臣",
+            "user_name": "zqc",
+            "phone_number": "12345678901",
+            "email": "zqc@redmatrix.org.cn",
+            "department":"南京红阵研发一部",
+            "client_mac":"2-2-2-2-2-2",
+            "client_ip":"192.168.110.15",
+            "client_info":"apple iphone x11",
+            "state": "在线",
+            "ap_name":"6413-02",
+            "ap_ip":"192.168.120.1",
+            "last_login_time": "2020-07-20 08:40"
+        },
+        {
+            "id": 3,
+            "human_name": "陈思源",
+            "user_name": "csy",
+            "phone_number": "12345678901",
+            "email": "csy@redmatrix.org.cn",
+            "department":"南京红阵研发一部",
+            "client_mac":"3-3-3-3-3-3",
+            "client_ip":"192.168.110.16",
+            "client_info":"win10 levono",
+            "state": "在线",
+            "ap_name":"6413-02",
+            "ap_ip":"192.168.120.1",
+            "last_login_time": "2020-07-19 20:34"
+        },
+        {
+            "id": 4,
+            "human_name": "张玲玉",
+            "user_name": "zly",
+            "phone_number": "12345678901",
+            "email": "zly@redmatrix.org.cn",
+            "department":"南京红阵研发一部",
+            "client_mac":"",
+            "client_ip":"",
+            "client_info":"",
+            "state": "离线",
+            "ap_name":"6413-02",
+            "ap_ip":"192.168.120.1",
+            "last_login_time": "2020-07-20 08:51"
+        }
+    ],
+    "pageTotal": 4
+}
